@@ -1,0 +1,2533 @@
+fileFormatVersion: 2
+guid: e32404bf1b6a97146a6b890d2f91ddb0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huge-trees_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e003861996e87c438ba5a9dfb9b6dc0
+      internalID: 1048312331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482d6ce0c157294b8039d56d438dcd3
+      internalID: -1670772925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829f210c63b50b4ba9f23571069b86b
+      internalID: 1880283489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edfe9f26d82ad94295948cfccfa0a21
+      internalID: 1866989722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4e370fd180754088c76e26c9517e0
+      internalID: -1250586575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fcfb42874e15a4a9457b30b65cf46e
+      internalID: 188984087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d49a54a9c2c6438d379d81156af06
+      internalID: 1272438923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7eac266bff9142b41796b52c3f906
+      internalID: 1589774753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fb02c8a52a164aabb86b7536c5112
+      internalID: 1223056093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfdc118357a5b94fb7aaa8f467f4553
+      internalID: -901917741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fde1072af363142aedaa99d93507ce
+      internalID: 829343467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_11
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cfa8d26bb0ffd4bb5b24dc4bdccd2b
+      internalID: 1220537784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d82db09127257b4188a8affba84748a
+      internalID: -330081567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ced56bd18ccf499da61fc589d156b
+      internalID: -1810843787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d335f5598539f4ab52257577e26a46
+      internalID: 1105938325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5decfc665b26b9f4788dbda756859f02
+      internalID: 1102208018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae9c7ffd3b82b4a89bd25f298dd019
+      internalID: -115596927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_17
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e587b7941953b489a4d840b0f4ef50
+      internalID: -420279012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9c3c48bec66f4da1da7b2f16c173c
+      internalID: -416698400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_19
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 880
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa120c4e9a8194b9d20907a899ba12
+      internalID: 235502556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dbe1188ddf560418f1892ed88812e8
+      internalID: 295882015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43faeef771fb94da1f88f329a01c87
+      internalID: -636622190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb9a1f02f7be3449c7fd424ece3f04
+      internalID: 347026588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69538608517373499230078ece35c2f
+      internalID: -1846781468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a717fddc024c9b4d90ecf4de632cdd2
+      internalID: -546228797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6333522439781489ac37d9d9a50dcf
+      internalID: -1326324593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39598c66ddec0924fb5e3f2cddfcbee6
+      internalID: -1472651612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746731aedead2a74baffded17e7e96a9
+      internalID: -2146084426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d465a30442746944b3857c300c7c478
+      internalID: -922370502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91777b74afbdd0441aa811eb17a31a75
+      internalID: -1277072741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_30
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f829e741882c00b468e6480ab6a625f0
+      internalID: 956153054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcda8f113679a94fac5d156a76955f6
+      internalID: 747863336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4fc7a0af483745b5845b597420522
+      internalID: 1390602427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767371618d984143bbb3adc92fab817
+      internalID: -1034089021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_34
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a8a93aac85a5c478b38c697a071904
+      internalID: 425992521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730dabaa8ca07824d83c213d17182511
+      internalID: 865587667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094948323e6faa34eab110a17d089238
+      internalID: 1162506674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_37
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 760
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9847bb483d1cdc4dab8b22545675ecb
+      internalID: -1984184626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a305745ce18bbf4dba8b54c4ff8de9f
+      internalID: 1017681438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4aa8df52cd1d5439b9936d30886d45
+      internalID: -577934651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3217d5576ccaf445ba8e668a291cef1
+      internalID: -46312803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3838c53cbe70d746b7bb1a28e252e91
+      internalID: 1930475253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_42
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922a0880cfd48f4db6fe5a60cd7f982
+      internalID: -297653492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_43
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 640
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52441da0d8cbbf840a5d60f53486323e
+      internalID: 475646447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3407c8525c97db546ab94664b0dcbbfb
+      internalID: -543095449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e58c35598e1f4a8e6bd544fc37055
+      internalID: 837823556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff24a2fea4791341bcf27f9e2ee702b
+      internalID: -41077275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b766d0415d4c8343bc2d6be3c1231c1
+      internalID: -1974300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8b7960def08c4a8db2540dca7aa37
+      internalID: 406578405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b01a850d4fe94c9bc0751357c15bd
+      internalID: -1068053560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc3d45e4546674cabae65ddf147384
+      internalID: -456463828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_51
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d34da7417d8c4280fea053b8b7d97
+      internalID: 1921785439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d673763d77f5914b9b78d0ee7b74436
+      internalID: 76146053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_53
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d86e3f38db0541b2f894237e242c1
+      internalID: 1066271057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_54
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641079023c0e40419117d65368c65a2
+      internalID: -1009774878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_55
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 520
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318148d4fd7bd94f93483b94271b214
+      internalID: -1513929217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf789ea5872b144e99c66d60015a608
+      internalID: -1487440212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7b26609a46374e9e158592cead346
+      internalID: -362831485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474a0d00ac17414fb3b01dd5d2688d7
+      internalID: 336007829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da49d9d67802a048836348e72c09b2a
+      internalID: 986765606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88459c42cd8a09a45a32f839f70cbd26
+      internalID: 1454150386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6d6ff12d7baa44b7d8921aaa28a35
+      internalID: -1354083457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859017b43f590284c8beb31055e99072
+      internalID: 455505650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9fd63d5ac2b64f898ffb18e1f0a3d
+      internalID: -1603186810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f0beaa6f6958f44ae189d724a40697
+      internalID: -1229341053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_65
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4e8ff8a16fd045bf17297fbee5b83
+      internalID: 1710787597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_66
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9d478598781e45b1d58272723e0da
+      internalID: 1830995190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_67
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490f542090da39489ae7202c938069e
+      internalID: 1737046661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79623cb704a763f4583411939cffd57f
+      internalID: -2016055381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_69
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008c41982a9e50428ece4bf7cad14f1
+      internalID: 1410159975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_70
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74261ebc853684340aeae8970b25cefb
+      internalID: -975227733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32a9af5484b4c45a3e0459029067c6
+      internalID: -154316448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_72
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af489ff766b200d4b8b2fd1975598564
+      internalID: 1350277332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_73
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a260b76c7b4e9c4991a552db0fa4650
+      internalID: 1400968608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_74
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a298115754be40b358d3aec16dafd
+      internalID: 1417601092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_75
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 400
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b014c68e5c95d64fbc88539f02e97e1
+      internalID: 474878426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb91f711c3793e4f80d61fa9cc758b8
+      internalID: -1096700145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597762786ddc57945845df0026f9a8a1
+      internalID: 372234980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e06ecc29b7834b96a5a5f8a1a1137
+      internalID: -1777942948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff816380cbb3d44db4616468d90acdd
+      internalID: -1773748532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66670dc7f2964fa4cb36d1d660f2cc17
+      internalID: 2028472315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d595728c5a1641a94353a33803c0b
+      internalID: 93606510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c71ec63ed37974bbf5ef9ede618ace
+      internalID: -1940536579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e44d8cf2f5dd4598684c8bc47afea
+      internalID: -2065690152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_84
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b34097ae56d640bf956e2c4f96c42
+      internalID: -1059488063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f9fa2a9bdc534c9766249e3e8f45f
+      internalID: 1178608548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_86
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dde473f2e217144b0b0bc1c8eb0c7e
+      internalID: 1997337869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_87
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b26b8fd57b9ab44a3d0a5b54b3789c
+      internalID: -507659436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_88
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3b4432cfe52d442b27050137df660a
+      internalID: 1215239563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_89
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d7b5046aab6d4385a25fdcfca5981
+      internalID: -452872728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_90
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61827ae43967da4eba59f1569bb0baa
+      internalID: -2123366213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_91
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2005956d37334ba7558599b9f569c
+      internalID: -1531912319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_92
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c10d4574d2ed4594c323850e18230
+      internalID: 1546848878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_93
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 280
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947cb7c95cc6d074497fab7a11c5e420
+      internalID: -2050713275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef691e7d49564a4588f02beb89e7a20
+      internalID: 856052875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b62be5716c7cc94b9f852b65b3156d7
+      internalID: 1798112446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_96
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c2343c9a896645bbf6a4558602a0d
+      internalID: -31900012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_97
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c3b3932a37f5942a8c149cc2d9c5b4
+      internalID: 616102959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1874381301810c44581927da0d3b3296
+      internalID: -1132740196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_99
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 160
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cb9238a49de564586306efba8ae214
+      internalID: -1541505322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b155c9d42c46f94486a594575259355
+      internalID: 351780396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b041798e7723654989f1853c8f31ca7
+      internalID: 232046469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5315932a50717d4488f454a20924af2d
+      internalID: -2002944596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753097ee252513449e0dca9a471ed6a
+      internalID: 265776348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_104
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8039e2e35749d409d427f281a0e3a4
+      internalID: -1539016406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d561539825105445b09173d27a7fb73
+      internalID: 359513789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_106
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f70563edc0d7b4a8d98c1d99d565e7
+      internalID: 969085634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_107
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c52118a29c18409f92c4f61936ae8
+      internalID: -512960671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-trees_108
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 40
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74cab14d1d5a248977377856a54afc
+      internalID: -580395086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      huge-trees_0: 1048312331
+      huge-trees_1: -1670772925
+      huge-trees_10: 829343467
+      huge-trees_100: 351780396
+      huge-trees_101: 232046469
+      huge-trees_102: -2002944596
+      huge-trees_103: 265776348
+      huge-trees_104: -1539016406
+      huge-trees_105: 359513789
+      huge-trees_106: 969085634
+      huge-trees_107: -512960671
+      huge-trees_108: -580395086
+      huge-trees_11: 1220537784
+      huge-trees_12: -330081567
+      huge-trees_13: -1810843787
+      huge-trees_14: 1105938325
+      huge-trees_15: 1102208018
+      huge-trees_16: -115596927
+      huge-trees_17: -420279012
+      huge-trees_18: -416698400
+      huge-trees_19: 235502556
+      huge-trees_2: 1880283489
+      huge-trees_20: 295882015
+      huge-trees_21: -636622190
+      huge-trees_22: 347026588
+      huge-trees_23: -1846781468
+      huge-trees_24: -546228797
+      huge-trees_25: -1326324593
+      huge-trees_26: -1472651612
+      huge-trees_27: -2146084426
+      huge-trees_28: -922370502
+      huge-trees_29: -1277072741
+      huge-trees_3: 1866989722
+      huge-trees_30: 956153054
+      huge-trees_31: 747863336
+      huge-trees_32: 1390602427
+      huge-trees_33: -1034089021
+      huge-trees_34: 425992521
+      huge-trees_35: 865587667
+      huge-trees_36: 1162506674
+      huge-trees_37: -1984184626
+      huge-trees_38: 1017681438
+      huge-trees_39: -577934651
+      huge-trees_4: -1250586575
+      huge-trees_40: -46312803
+      huge-trees_41: 1930475253
+      huge-trees_42: -297653492
+      huge-trees_43: 475646447
+      huge-trees_44: -543095449
+      huge-trees_45: 837823556
+      huge-trees_46: -41077275
+      huge-trees_47: -1974300172
+      huge-trees_48: 406578405
+      huge-trees_49: -1068053560
+      huge-trees_5: 188984087
+      huge-trees_50: -456463828
+      huge-trees_51: 1921785439
+      huge-trees_52: 76146053
+      huge-trees_53: 1066271057
+      huge-trees_54: -1009774878
+      huge-trees_55: -1513929217
+      huge-trees_56: -1487440212
+      huge-trees_57: -362831485
+      huge-trees_58: 336007829
+      huge-trees_59: 986765606
+      huge-trees_6: 1272438923
+      huge-trees_60: 1454150386
+      huge-trees_61: -1354083457
+      huge-trees_62: 455505650
+      huge-trees_63: -1603186810
+      huge-trees_64: -1229341053
+      huge-trees_65: 1710787597
+      huge-trees_66: 1830995190
+      huge-trees_67: 1737046661
+      huge-trees_68: -2016055381
+      huge-trees_69: 1410159975
+      huge-trees_7: 1589774753
+      huge-trees_70: -975227733
+      huge-trees_71: -154316448
+      huge-trees_72: 1350277332
+      huge-trees_73: 1400968608
+      huge-trees_74: 1417601092
+      huge-trees_75: 474878426
+      huge-trees_76: -1096700145
+      huge-trees_77: 372234980
+      huge-trees_78: -1777942948
+      huge-trees_79: -1773748532
+      huge-trees_8: 1223056093
+      huge-trees_80: 2028472315
+      huge-trees_81: 93606510
+      huge-trees_82: -1940536579
+      huge-trees_83: -2065690152
+      huge-trees_84: -1059488063
+      huge-trees_85: 1178608548
+      huge-trees_86: 1997337869
+      huge-trees_87: -507659436
+      huge-trees_88: 1215239563
+      huge-trees_89: -452872728
+      huge-trees_9: -901917741
+      huge-trees_90: -2123366213
+      huge-trees_91: -1531912319
+      huge-trees_92: 1546848878
+      huge-trees_93: -2050713275
+      huge-trees_94: 856052875
+      huge-trees_95: 1798112446
+      huge-trees_96: -31900012
+      huge-trees_97: 616102959
+      huge-trees_98: -1132740196
+      huge-trees_99: -1541505322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

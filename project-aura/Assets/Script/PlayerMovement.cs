@@ -46,7 +46,6 @@ public class PlayerMovement : MonoBehaviour
 
         playerController.Movement.Jump.performed += ctx => Jump();
 
-        
     }
 
     private void OnDisable()
